@@ -1,0 +1,6 @@
+c:\users\oqiu002\documents\visual studio 2015\Projects\ConsoleFileOperator\ConsoleFileOperator\bin\Debug\ConsoleFileOperator.exe.config
+c:\users\oqiu002\documents\visual studio 2015\Projects\ConsoleFileOperator\ConsoleFileOperator\bin\Debug\ConsoleFileOperator.exe
+c:\users\oqiu002\documents\visual studio 2015\Projects\ConsoleFileOperator\ConsoleFileOperator\bin\Debug\ConsoleFileOperator.pdb
+c:\users\oqiu002\documents\visual studio 2015\Projects\ConsoleFileOperator\ConsoleFileOperator\obj\Debug\ConsoleFileOperator.exe
+c:\users\oqiu002\documents\visual studio 2015\Projects\ConsoleFileOperator\ConsoleFileOperator\obj\Debug\ConsoleFileOperator.pdb
+C:\Users\oqiu002\Documents\Visual Studio 2015\Projects\ConsoleFileOperator\ConsoleFileOperator\obj\Debug\ConsoleFileOperator.csprojResolveAssemblyReference.cache

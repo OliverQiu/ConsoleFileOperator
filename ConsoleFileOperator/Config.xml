@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <!--the source directory you want-->
+  <SourceDirectory>
+    C:\\Test
+  </SourceDirectory>
+
+  <!--the log directory you want-->
+  <LogDirectory>
+    C:\\TestLog
+  </LogDirectory>
+
+  <!--the moved directory you want-->
+  <MoveDirectory>
+    C:\\TestMoveTo
+  </MoveDirectory>
+</root>
