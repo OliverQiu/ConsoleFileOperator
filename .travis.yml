@@ -3,3 +3,5 @@ solution: ConsoleFileOperator.sln
 install:
   - sudo apt-get install -y gtk-sharp2
   - nuget restore ConsoleFileOperator.sln
+mono:
+- latest
